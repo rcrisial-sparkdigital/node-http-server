@@ -1,0 +1,20 @@
+{
+   "name": "node-http-server",
+   "version": "1.0.0",
+   "description": "SimpleSend realtime information to Bidders and DMP",
+   "main": "http.js",
+   "dependencies": {
+      "optimist":""
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rcrisial-sparkdigital/node-http-server.git"
+   },
+   "author": "Roberto O. Fernández Crisial rcrisial@sparkdigital.com",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/MediaMath/core-relay/issues"
+   },
+   "homepage": "https://github.com/rcrisial-sparkdigital/node-http-server"
+}
+
