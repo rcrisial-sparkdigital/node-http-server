@@ -9,7 +9,7 @@ var argv = optimist.usage("Fast Tag FE", {
     },
     "listen_port" : {
         description : "Port to listen on",
-        default : 8000,
+        default : 80,
         required : true
     },
     "help" : {
